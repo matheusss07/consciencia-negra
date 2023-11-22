@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+body{
+    background-image: url(https://www.acidadeon.com/araraquara/wp-content/uploads/sites/4/2023/08/10_banner_racismo.jpg);
+    
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-family: monospace;
+}
+p{
+   color: white;
+   font-size: 20px;
+}
+footer{
+    text-align: center;
+    color: white;
+}
+h2{
+text-align: center;
+font-size: 50px;
+color: white;
+}
+
+h3{
+    font-size: 35px;
+    text-align: center;
+    color: white;
+}
